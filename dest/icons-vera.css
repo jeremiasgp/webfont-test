@@ -1,0 +1,66 @@
+@font-face {
+	font-family: "icons-vera";
+	src: url("icons-vera.eot?f4e07aef4de57d2748773160ec4ce4b8?#iefix") format("embedded-opentype"),
+url("icons-vera.woff2?f4e07aef4de57d2748773160ec4ce4b8") format("woff2"),
+url("icons-vera.woff?f4e07aef4de57d2748773160ec4ce4b8") format("woff");
+}
+
+.icon {
+	line-height: 1;
+}
+
+.icon:before {
+	font-family: icons-vera !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.icon-Iconos_ico_account:before {
+	content: "\f101";
+}
+.icon-Iconos_ico_calendar:before {
+	content: "\f102";
+}
+.icon-Iconos_ico_card:before {
+	content: "\f103";
+}
+.icon-Iconos_ico_clock:before {
+	content: "\f104";
+}
+.icon-Iconos_ico_coin:before {
+	content: "\f105";
+}
+.icon-Iconos_ico_document:before {
+	content: "\f106";
+}
+.icon-Iconos_ico_favo:before {
+	content: "\f107";
+}
+.icon-Iconos_ico_light:before {
+	content: "\f108";
+}
+.icon-Iconos_ico_message:before {
+	content: "\f109";
+}
+.icon-Iconos_ico_money:before {
+	content: "\f10a";
+}
+.icon-Iconos_ico_money2:before {
+	content: "\f10b";
+}
+.icon-Iconos_ico_money4:before {
+	content: "\f10c";
+}
+.icon-Iconos_ico_password:before {
+	content: "\f10d";
+}
+.icon-Iconos_ico_people:before {
+	content: "\f10e";
+}
+.icon-Iconos_ico_pig:before {
+	content: "\f10f";
+}
+.icon-Iconos_ico_security:before {
+	content: "\f110";
+}

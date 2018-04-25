@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Iconos/Basicos/ArrowLeft</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.1045,9.0508 L2.6745,9.0508 L8.7335,2.6208 C9.0835,2.2498 9.0835,1.6488 8.7335,1.2788 C8.3835,0.9068 7.8165,0.9068 7.4665,1.2788 L0.5305,8.6408 C0.1885,9.0038 0.0005,9.4868 0.0005,10.0008 C0.0005,10.5138 0.1885,10.9968 0.5305,11.3598 L7.4665,18.7218 C7.6415,18.9068 7.8715,18.9998 8.0995,18.9998 C8.3295,18.9998 8.5585,18.9068 8.7335,18.7218 C9.0835,18.3518 9.0835,17.7498 8.7335,17.3798 L2.7025,10.9498 L19.1045,10.9498 C19.5985,10.9498 20.0005,10.5248 20.0005,10.0008 C20.0005,9.4758 19.5985,9.0508 19.1045,9.0508" id="path-1"></path>
+    </defs>
+    <g id="Iconos/Basicos/ArrowLeft" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#535353" xlink:href="#path-1"></use>
+        <g id="Color/Gris/2-Dark" mask="url(#mask-2)" fill="#535353">
+            <rect id="Rectangle" x="0" y="0" width="20" height="20"></rect>
+        </g>
+    </g>
+</svg>

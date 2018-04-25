@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Iconos/Alerts/Alerta triangular filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.7632,16.3516 C20.0782,16.9046 20.0782,17.5646 19.7632,18.1176 C19.4482,18.6696 18.8832,18.9996 18.2532,18.9996 L1.7472,18.9996 C1.1172,18.9996 0.5522,18.6696 0.2372,18.1176 C-0.0788,17.5646 -0.0788,16.9046 0.2372,16.3516 L8.4902,1.8826 C8.8052,1.3306 9.3682,1.0006 9.9992,0.9996 L10.0002,0.9996 C10.6302,0.9996 11.1952,1.3296 11.5112,1.8826 L19.7632,16.3516 Z M10.0005,13.6021 C9.2735,13.6021 8.6625,14.2131 8.6625,14.9401 C8.6625,15.6671 9.2735,16.2771 10.0005,16.2771 C10.7285,16.2771 11.3375,15.6671 11.3375,14.9401 C11.3375,14.2131 10.7285,13.6021 10.0005,13.6021 Z M9.9761,11.9492 C10.5291,11.9492 10.9761,11.5012 10.9761,10.9492 L10.9761,6.8052 C10.9761,6.2532 10.5291,5.8052 9.9761,5.8052 C9.4231,5.8052 8.9761,6.2532 8.9761,6.8052 L8.9761,10.9492 C8.9761,11.5012 9.4231,11.9492 9.9761,11.9492 Z" id="path-1"></path>
+    </defs>
+    <g id="Iconos/Alerts/Alerta-triangular-filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#535353" xlink:href="#path-1"></use>
+        <g id="Color/Gris/2-Dark" mask="url(#mask-2)" fill="#535353">
+            <rect id="Rectangle" x="0" y="0" width="22" height="22"></rect>
+        </g>
+    </g>
+</svg>

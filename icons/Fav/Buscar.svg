@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Iconos/Fav/Buscar</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.4746,8.6104 C1.4746,4.6754 4.6746,1.4744 8.6106,1.4744 C12.5446,1.4744 15.7466,4.6754 15.7466,8.6104 C15.7466,12.5454 12.5446,15.7474 8.6106,15.7474 C4.6746,15.7474 1.4746,12.5454 1.4746,8.6104 M19.6496,18.7414 L15.1276,14.2214 C16.4286,12.7124 17.2206,10.7544 17.2206,8.6104 C17.2206,3.8624 13.3586,0.0004 8.6106,0.0004 C3.8626,0.0004 -0.0004,3.8624 -0.0004,8.6104 C-0.0004,13.3584 3.8626,17.2214 8.6106,17.2214 C10.6846,17.2214 12.5906,16.4834 14.0786,15.2564 L18.6076,19.7844 C18.7506,19.9284 18.9396,20.0004 19.1276,20.0004 C19.3176,20.0004 19.5046,19.9284 19.6496,19.7844 C19.9376,19.4964 19.9376,19.0294 19.6496,18.7414" id="path-1"></path>
+    </defs>
+    <g id="Iconos/Fav/Buscar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#535353" xlink:href="#path-1"></use>
+        <g id="Color/Gris/2-Dark" mask="url(#mask-2)" fill="#535353">
+            <g transform="translate(-1.000000, -1.000000)" id="Rectangle">
+                <rect x="0" y="0" width="22" height="22"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

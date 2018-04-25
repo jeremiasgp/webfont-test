@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Iconos/Estados/habilitado</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.2059,7.3632 L9.3309,13.3822 C8.9979,13.7222 8.5539,13.9102 8.0779,13.9102 L8.0659,13.9102 C7.5859,13.9072 7.1399,13.7132 6.8089,13.3652 L4.7869,11.2372 C4.5019,10.9362 4.5149,10.4622 4.8139,10.1762 C5.1149,9.8912 5.5889,9.9032 5.8749,10.2042 L7.8959,12.3322 C7.9619,12.4002 8.0119,12.3972 8.0779,12.4102 C8.1179,12.4102 8.1929,12.4002 8.2569,12.3352 L14.1319,6.3162 C14.4229,6.0182 14.8969,6.0152 15.1919,6.3022 C15.4889,6.5922 15.4949,7.0672 15.2059,7.3632 M9.9999,0.0002 C4.4859,0.0002 -0.0001,4.4862 -0.0001,10.0002 C-0.0001,15.5142 4.4859,20.0002 9.9999,20.0002 C15.5149,20.0002 19.9999,15.5142 19.9999,10.0002 C19.9999,4.4862 15.5149,0.0002 9.9999,0.0002" id="path-1"></path>
+    </defs>
+    <g id="Iconos/Estados/habilitado" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#535353" xlink:href="#path-1"></use>
+        <g id="Color/Verde/3-Light" mask="url(#mask-2)" fill="#6FA338">
+            <g transform="translate(-1.000000, -1.000000)" id="Rectangle">
+                <rect x="0" y="0" width="22" height="22"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

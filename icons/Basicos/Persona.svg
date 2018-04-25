@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Iconos/Basicos/Persona</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.9997,1.3952 C12.1057,1.3952 13.8207,3.0182 13.8207,5.0122 C13.8207,7.0052 12.1057,8.6282 9.9997,8.6282 C7.8927,8.6282 6.1787,7.0052 6.1787,5.0122 C6.1787,3.0182 7.8927,1.3952 9.9997,1.3952 M9.9997,10.0232 C12.9197,10.0232 15.2957,7.7752 15.2957,5.0122 C15.2957,2.2482 12.9197,0.0002 9.9997,0.0002 C7.0797,0.0002 4.7037,2.2482 4.7037,5.0122 C4.7037,7.7752 7.0797,10.0232 9.9997,10.0232 M2.5105,18.6047 C2.8815,15.0037 6.0995,12.1807 9.9995,12.1807 C13.9015,12.1807 17.1185,15.0037 17.4895,18.6047 L2.5105,18.6047 Z M9.9995,10.7857 C5.0375,10.7857 0.9995,14.6057 0.9995,19.3027 C0.9995,19.6877 1.3295,20.0007 1.7375,20.0007 L18.2625,20.0007 C18.6695,20.0007 18.9995,19.6877 18.9995,19.3027 C18.9995,14.6057 14.9625,10.7857 9.9995,10.7857 Z" id="path-1"></path>
+    </defs>
+    <g id="Iconos/Basicos/Persona" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#535353" xlink:href="#path-1"></use>
+        <g id="Color/Gris/2-Dark" mask="url(#mask-2)" fill="#535353">
+            <g transform="translate(-1.000000, -1.000000)" id="Rectangle">
+                <rect x="0" y="0" width="22" height="22"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Iconos/Estados/Suspendido</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.1295,10.7499 L5.1295,10.7499 C4.7155,10.7499 4.3795,10.4139 4.3795,9.9999 C4.3795,9.5859 4.7155,9.2499 5.1295,9.2499 L15.1295,9.2499 C15.5435,9.2499 15.8795,9.5859 15.8795,9.9999 C15.8795,10.4139 15.5435,10.7499 15.1295,10.7499 M9.9995,-0.0001 C4.4855,-0.0001 -0.0005,4.4859 -0.0005,9.9999 C-0.0005,15.5149 4.4855,19.9999 9.9995,19.9999 C15.5145,19.9999 19.9995,15.5149 19.9995,9.9999 C19.9995,4.4859 15.5145,-0.0001 9.9995,-0.0001" id="path-1"></path>
+    </defs>
+    <g id="Iconos/Estados/Suspendido" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#535353" xlink:href="#path-1"></use>
+        <g id="Color/Rojo/2-Normal" mask="url(#mask-2)" fill="#D0021B">
+            <g transform="translate(-1.000000, -1.000000)" id="Rectangle">
+                <rect x="0" y="0" width="22" height="22"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

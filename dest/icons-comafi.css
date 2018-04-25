@@ -1,0 +1,51 @@
+@font-face {
+	font-family: "icons-comafi";
+	src: url("icons-comafi.eot?0b04634a2edbd7dad600de5612f04f68?#iefix") format("embedded-opentype"),
+url("icons-comafi.woff2?0b04634a2edbd7dad600de5612f04f68") format("woff2"),
+url("icons-comafi.woff?0b04634a2edbd7dad600de5612f04f68") format("woff");
+}
+
+.cfi-icon {
+	line-height: 1;
+}
+
+.cfi-icon:before {
+	font-family: icons-comafi !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.cfi-icon--arrowleft:before {
+	content: "\f101";
+}
+.cfi-icon--arrowright:before {
+	content: "\f102";
+}
+.cfi-icon--cel:before {
+	content: "\f103";
+}
+.cfi-icon--cerrar:before {
+	content: "\f104";
+}
+.cfi-icon--eliminar:before {
+	content: "\f105";
+}
+.cfi-icon--empresacopy:before {
+	content: "\f106";
+}
+.cfi-icon--empresa:before {
+	content: "\f107";
+}
+.cfi-icon--mail:before {
+	content: "\f108";
+}
+.cfi-icon--notificaciones:before {
+	content: "\f109";
+}
+.cfi-icon--persona:before {
+	content: "\f10a";
+}
+.cfi-icon--reloj:before {
+	content: "\f10b";
+}

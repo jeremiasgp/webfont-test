@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Iconos/Alerts/Info</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.0439,7.8687 C10.4289,7.8687 10.7409,8.1807 10.7409,8.5667 L10.7409,13.9707 C10.7409,14.3557 10.4289,14.6687 10.0439,14.6687 C9.6579,14.6687 9.3459,14.3557 9.3459,13.9707 L9.3459,8.5667 C9.3459,8.1807 9.6579,7.8687 10.0439,7.8687 Z M10.0215,4.8892 C10.4805,4.8892 10.8675,5.2752 10.8675,5.7352 C10.8675,6.1942 10.4805,6.5802 10.0215,6.5802 C9.5615,6.5802 9.1755,6.1942 9.1755,5.7352 C9.1755,5.2752 9.5615,4.8892 10.0215,4.8892 Z M10,18.6045 C5.255,18.6045 1.396,14.7445 1.396,10.0005 C1.396,5.2555 5.255,1.3955 10,1.3955 C14.745,1.3955 18.604,5.2555 18.604,10.0005 C18.604,14.7445 14.745,18.6045 10,18.6045 M10,0.0005 C4.485,0.0005 0,4.4855 0,10.0005 C0,15.5145 4.485,20.0005 10,20.0005 C15.515,20.0005 20,15.5145 20,10.0005 C20,4.4855 15.515,0.0005 10,0.0005" id="path-1"></path>
+    </defs>
+    <g id="Iconos/Alerts/Info" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#535353" xlink:href="#path-1"></use>
+        <g id="Color/Gris/2-Dark" mask="url(#mask-2)" fill="#535353">
+            <g transform="translate(-1.000000, -1.000000)" id="Rectangle">
+                <rect x="0" y="0" width="22" height="22"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

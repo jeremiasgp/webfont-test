@@ -1,0 +1,25 @@
+{
+  "name": "webfont-test",
+  "version": "1.0.0",
+  "description": "Testing for a new feature",
+  "main": "index.js",
+  "dependencies": {
+    "icon-font-generator": "^2.1.5"
+  },
+  "devDependencies": {
+    "webfonts-generator": "^0.4.0"
+  },
+  "scripts": {
+    "test": "icon-font-generator icons/Basicos/*.svg icons/Alerts/*.svg -o dest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiasgp/webfont-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremiasgp/webfont-test/issues"
+  },
+  "homepage": "https://github.com/jeremiasgp/webfont-test#readme"
+}

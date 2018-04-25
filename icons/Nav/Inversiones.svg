@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Iconos/Nav/Inversiones</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.186,15.8488 L7.132,15.8488 L7.132,13.2108 L4.186,13.2108 L4.186,15.8488 Z M8.527,9.1768 L11.473,9.1768 L11.473,15.8488 L8.527,15.8488 L8.527,12.5138 L8.527,9.1768 Z M12.868,5.1428 L15.814,5.1428 L15.814,15.8488 L12.868,15.8488 L12.868,8.4788 L12.868,5.1428 Z M19.302,15.9528 L17.209,15.9528 L17.209,4.4458 C17.209,4.0598 16.897,3.7478 16.512,3.7478 L12.171,3.7478 C11.785,3.7478 11.473,4.0598 11.473,4.4458 L11.473,7.7818 L7.83,7.7818 C7.444,7.7818 7.132,8.0948 7.132,8.4788 L7.132,11.8158 L3.488,11.8158 C3.103,11.8158 2.791,12.1278 2.791,12.5138 L2.791,15.9528 L1.74,15.9528 C1.618,15.9528 1.395,15.7028 1.395,15.2938 L1.395,2.6978 C1.395,2.3128 1.083,1.9998 0.698,1.9998 C0.313,1.9998 0,2.3128 0,2.6978 L0,15.2938 C0,16.4278 0.781,17.3488 1.74,17.3488 L19.302,17.3488 C19.688,17.3488 20,17.0368 20,16.6508 C20,16.2658 19.688,15.9528 19.302,15.9528 Z" id="path-1"></path>
+    </defs>
+    <g id="Iconos/Nav/Inversiones" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#535353" xlink:href="#path-1"></use>
+        <g id="Color/Gris/2-Dark" mask="url(#mask-2)" fill="#535353">
+            <g transform="translate(-1.000000, -1.000000)" id="Rectangle">
+                <rect x="0" y="0" width="22" height="22"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

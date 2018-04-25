@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Iconos/Estados/Pendiente</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.2835,11.0712 C13.7015,11.0712 13.2135,10.5822 13.2135,10.0002 C13.2135,9.4182 13.7015,8.9282 14.2835,8.9282 C14.8655,8.9282 15.3545,9.4182 15.3545,10.0002 C15.3545,10.5822 14.8655,11.0712 14.2835,11.0712 M9.9995,11.0712 C9.4175,11.0712 8.9295,10.5822 8.9295,10.0002 C8.9295,9.4182 9.4175,8.9282 9.9995,8.9282 C10.5815,8.9282 11.0705,9.4182 11.0705,10.0002 C11.0705,10.5822 10.5815,11.0712 9.9995,11.0712 M5.7155,11.0712 C5.1335,11.0712 4.6445,10.5822 4.6445,10.0002 C4.6445,9.4182 5.1335,8.9282 5.7155,8.9282 C6.2975,8.9282 6.7865,9.4182 6.7865,10.0002 C6.7865,10.5822 6.2975,11.0712 5.7155,11.0712 M10.0005,0.0002 C4.4855,0.0002 0.0005,4.4862 0.0005,10.0002 C0.0005,15.5142 4.4855,20.0002 10.0005,20.0002 C15.5135,20.0002 20.0005,15.5142 20.0005,10.0002 C20.0005,4.4862 15.5135,0.0002 10.0005,0.0002" id="path-1"></path>
+    </defs>
+    <g id="Iconos/Estados/Pendiente" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#535353" xlink:href="#path-1"></use>
+        <g id="Color/Amarillo/1-Dark-2" mask="url(#mask-2)" fill="#E7AC00">
+            <rect id="Rectangle" x="0" y="0" width="20" height="20"></rect>
+        </g>
+    </g>
+</svg>

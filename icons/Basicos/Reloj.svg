@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Iconos/Basicos/Reloj</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.6976,9.7113 L10.6976,4.5073 C10.6976,4.1223 10.3856,3.8093 9.9996,3.8093 C9.6146,3.8093 9.3016,4.1223 9.3016,4.5073 L9.3016,10.0003 C9.3016,10.1853 9.3756,10.3623 9.5066,10.4933 L11.7036,12.6903 C11.8406,12.8273 12.0186,12.8953 12.1976,12.8953 C12.3756,12.8953 12.5546,12.8273 12.6906,12.6903 C12.9636,12.4183 12.9636,11.9773 12.6906,11.7043 L10.6976,9.7113 Z M9.9999,18.6048 C5.2549,18.6048 1.3959,14.7448 1.3959,9.9998 C1.3959,5.2548 5.2549,1.3958 9.9999,1.3958 C14.7449,1.3958 18.6049,5.2548 18.6049,9.9998 C18.6049,14.7448 14.7449,18.6048 9.9999,18.6048 M9.9999,-0.0002 C4.4859,-0.0002 -0.0001,4.4858 -0.0001,9.9998 C-0.0001,15.5138 4.4859,19.9998 9.9999,19.9998 C15.5139,19.9998 19.9999,15.5138 19.9999,9.9998 C19.9999,4.4858 15.5139,-0.0002 9.9999,-0.0002" id="path-1"></path>
+    </defs>
+    <g id="Iconos/Basicos/Reloj" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#535353" xlink:href="#path-1"></use>
+        <g id="Color/Gris/2-Dark" mask="url(#mask-2)" fill="#535353">
+            <g transform="translate(-1.000000, -1.000000)" id="Rectangle">
+                <rect x="0" y="0" width="22" height="22"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

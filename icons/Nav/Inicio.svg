@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Iconos/Nav/Inicio</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.801,16.5044 L12.728,16.5044 L12.728,10.7504 C12.728,10.3374 12.395,10.0024 11.984,10.0024 L8.016,10.0024 C7.605,10.0024 7.272,10.3374 7.272,10.7504 L7.272,16.5044 L4.199,16.5044 L4.199,6.4424 L10,1.7114 L15.801,6.4424 L15.801,16.5044 Z M8.76,16.5044 L11.24,16.5044 L11.24,11.4984 L8.76,11.4984 L8.76,16.5044 Z M19.725,7.7174 L10.469,0.1674 C10.196,-0.0556 9.804,-0.0556 9.531,0.1674 L0.275,7.7174 C-0.044,7.9774 -0.093,8.4484 0.166,8.7694 C0.426,9.0894 0.892,9.1384 1.213,8.8794 L2.711,7.6564 L2.711,17.2524 C2.711,17.6654 3.044,18.0004 3.455,18.0004 L8.016,18.0004 L11.984,18.0004 L16.545,18.0004 C16.956,18.0004 17.289,17.6654 17.289,17.2524 L17.289,7.6564 L18.787,8.8794 C18.925,8.9914 19.091,9.0464 19.256,9.0464 C19.472,9.0464 19.687,8.9514 19.834,8.7694 C20.093,8.4484 20.044,7.9774 19.725,7.7174 Z" id="path-1"></path>
+    </defs>
+    <g id="Iconos/Nav/Inicio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(0.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#535353" xlink:href="#path-1"></use>
+            <g id="Color/Gris/2-Dark" mask="url(#mask-2)" fill="#535353">
+                <g transform="translate(-1.000000, -2.000000)" id="Rectangle">
+                    <rect x="0" y="0" width="22" height="22"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

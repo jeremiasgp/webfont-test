@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Iconos/Nav/Hamburger</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.1257,7.9131 L0.8737,7.9131 C0.3917,7.9131 -0.0003,7.5041 -0.0003,7.0001 C-0.0003,6.4961 0.3917,6.0871 0.8737,6.0871 L19.1257,6.0871 C19.6087,6.0871 19.9997,6.4961 19.9997,7.0001 C19.9997,7.5041 19.6087,7.9131 19.1257,7.9131 Z M19.1257,14 L0.8737,14 C0.3917,14 -0.0003,13.591 -0.0003,13.087 C-0.0003,12.583 0.3917,12.174 0.8737,12.174 L19.1257,12.174 C19.6087,12.174 19.9997,12.583 19.9997,13.087 C19.9997,13.591 19.6087,14 19.1257,14 Z M19.1257,1.8257 L0.8737,1.8257 C0.3917,1.8257 -0.0003,1.4167 -0.0003,0.9127 C-0.0003,0.4087 0.3917,-0.0003 0.8737,-0.0003 L19.1257,-0.0003 C19.6087,-0.0003 19.9997,0.4087 19.9997,0.9127 C19.9997,1.4167 19.6087,1.8257 19.1257,1.8257 Z" id="path-1"></path>
+    </defs>
+    <g id="Iconos/Nav/Hamburger" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Color/Gris/2-Dark" transform="translate(0.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#535353" xlink:href="#path-1"></use>
+            <g mask="url(#mask-2)" fill="#535353" id="Rectangle">
+                <g transform="translate(-1.000000, -4.000000)">
+                    <rect x="0" y="0" width="22" height="22"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
